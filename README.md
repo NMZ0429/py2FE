@@ -23,7 +23,7 @@ The encryption is done in two step.
 1. Encryption by AES
 2. Encarypt the key with provided password
 
-Thus you need the generated key file and the matching keyword
+**Thus you need the generated key file and the matching keyword for decryption.**
 
 ### Encryption
 
