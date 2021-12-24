@@ -4,7 +4,7 @@
 
 <img src="icon.png" width=100>
 
-### Simple CLI to Encrypt Files
+### Simple CLI for Two-Factor Encryption
 
 ___
 
@@ -22,6 +22,8 @@ The encryption is done in two step.
 
 1. Encryption by AES
 2. Encarypt the key with provided password
+
+Thus you need the generated key file and the matching keyword
 
 ### Encryption
 
